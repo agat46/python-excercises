@@ -6,7 +6,7 @@ F9 - run line of code
 
 Ctrl + 1 - text comment
 
-print("Hello world!")
+print("Hello world")
 
 
 ---> ZMIENNE I TYPY
