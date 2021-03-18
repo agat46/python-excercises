@@ -6,8 +6,7 @@ F9 - run line of code
 
 Ctrl + 1 - text comment
 
-y = 32
-print(f"I know you have {y} cats")
+print("Hello world!")
 
 
 ---> ZMIENNE I TYPY
